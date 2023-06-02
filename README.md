@@ -8,6 +8,8 @@ The project involves 5 steps
 
 ### 1.Data Collection 
 I utilized the Selenium library in Python for automating web scraping. The scraping process posed challenges due to frequent Chrome updates that hindered traditional methods. The most demanding aspect involved configuring the chromedriver to navigate through thumbnails and identify the image source to prevent downloading of the thumbnails.
+
+code for scrapping -- 
 {gif}
 
 ### 2.Data Cleannig 
