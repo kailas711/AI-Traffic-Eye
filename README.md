@@ -21,8 +21,9 @@ Around 175 images were carefully selected and manually inspected. To ensure cons
 ![Annotation](https://github.com/kailas711/YoloV5_Nested_Object_Detection/assets/89206677/2257ed62-02ab-4a8b-8f04-a9553b00e2b4)
 
 
-### 3.Model Buidling and training 
-----under-works-----
+### 3.Model Buidling and training
+The Ultralytics YoloV8 nano model custom trained on dataset via Roboflow API dairectly on T4 GPU in Google Colab
+![yoloV8n model](https://github.com/kailas711/YoloV5_Nested_Object_Detection/blob/main/Training_Model.ipynb)
 
 ### 4.Deployment 
 ----under-works----
