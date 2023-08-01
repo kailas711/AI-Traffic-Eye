@@ -24,7 +24,8 @@ Around 175 images were carefully selected and manually inspected. To ensure cons
 ### 3.Model Buidling and training
 The Ultralytics YoloV8 nano model custom trained on dataset via Roboflow API dairectly on T4 GPU in Google Colab.
 
-![YoloV8n model](https://github.com/kailas711/YoloV5_Nested_Object_Detection/blob/main/Training_Model.ipynb)
+[YoloV8n model](https://github.com/kailas711/YoloV5_Nested_Object_Detection/blob/main/YoloV8%20Training.ipynb)
+
 
 ### 4.Deployment 
 ----under-works----
