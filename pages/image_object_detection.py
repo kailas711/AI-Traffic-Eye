@@ -10,8 +10,8 @@ import numpy
 # model_path = "weights\\best.pt"
 # checking_model = "weights\\yolov8m.pt"
 
-model_path = "weights\\best.pt"
-checking_model = "weights\\yolov8m.pt"
+model_path = "best.pt"
+checking_model = "yolov8m.pt"
 
 
 # Setting page layout
