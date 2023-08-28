@@ -4,5 +4,8 @@ The project involves 5 steps
 - Data Collection 
 - Data cleaning and procesing 
 - Model Buidling and training 
-- Deployment 
+- Deployment
+The application is deployed in streamlit cloud, try it for yourself!!
+
+https://yolov8nestedobjectdetection-suylab9pgbfb6wjfks3uuo.streamlit.app/
 
