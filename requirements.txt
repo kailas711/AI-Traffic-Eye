@@ -1,5 +1,5 @@
 streamlit==1.26.0
 ultralytics==8.0.164
 cv2== 4.8.0.76
-PIL==10.0.0
+pillow==10.0.0
 numpy==1.25.2
