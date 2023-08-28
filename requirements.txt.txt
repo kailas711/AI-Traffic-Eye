@@ -1,0 +1,4 @@
+ultralytics 
+cv2
+PIL
+numpy 
