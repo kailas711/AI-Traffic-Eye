@@ -7,8 +7,8 @@ from ultralytics import YOLO
 import torch 
 import time 
 
-model_path = "weights\\best.pt"
-checking_model_path = "weights\\yolov8m.pt"
+model_path = "best.pt"
+checking_model_path = "yolov8m.pt"
 
 # Setting page layout
 st.set_page_config(
