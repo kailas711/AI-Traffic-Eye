@@ -31,7 +31,7 @@ I utilized the Selenium library in Python for automating web scraping. The scrap
 
 
 ### 2.Data Cleannig and Processing
-Around 175 images were carefully selected and manually inspected. To ensure consistent input dimensions for the YOLO model, resizing was performed on all images. Roboflow was utilized to manually draw bounding boxes. Additionally, image augmentation techniques were employed to expand the training dataset, enhancing the model's learning capabilities.
+Around 307 images were carefully selected and manually inspected. To ensure consistent input dimensions for the YOLO model, resizing was performed on all images. Roboflow was utilized to manually draw bounding boxes. Additionally, image augmentation techniques were employed to expand the training dataset, enhancing the model's learning capabilities.
 
 ![Annotation](https://github.com/kailas711/YoloV5_Nested_Object_Detection/assets/89206677/2257ed62-02ab-4a8b-8f04-a9553b00e2b4)
 
