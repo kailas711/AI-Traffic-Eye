@@ -11,5 +11,6 @@ The project involves 5 steps
 **Link** -- https://yolov8nestedobjectdetection-akxeu4mb6zecb6mupmc57o.streamlit.app/
 
 
-![image](https://github.com/kailas711/YoloV8_Nested_Object_Detection/assets/89206677/c65afbb9-d79a-469a-a3e2-8e27124e9d0f)
+![image](https://github.com/kailas711/Nested_Object_Detection/assets/89206677/a272e75f-57f9-4ea3-b83d-8ada18555b83)
+
 
