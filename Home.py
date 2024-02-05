@@ -6,7 +6,7 @@ import streamlit as st
 
 # Setting page layout
 st.set_page_config(
-    page_title="Object Detection using YOLOv8",
+    page_title="Traffic-EYE",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -43,7 +43,7 @@ The Ultralytics YoloV8 nano model custom trained on dataset via Roboflow API dai
 
 
 ### 4.Deployment 
-"![image](https://learn.g2.com/hubfs/G2CM_FI264_Learn_Article_Images_%5BObject_detection%5D_V1a.png)"
+"![image](https://blog.streamlit.io/content/images/2022/08/image--4-.svg)"
 """
 
 st.markdown(content)
