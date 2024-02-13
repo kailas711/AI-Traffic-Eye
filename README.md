@@ -2,7 +2,7 @@
 
 **The application is deployed in streamlit cloud, try it for yourself!!**
 
-**Link** -- https://yolov8nestedobjectdetection-akxeu4mb6zecb6mupmc57o.streamlit.app/
+**Link** -- https://ai-traffic-eye.streamlit.app/
 
 ### 1.Data Collection 
 I utilized the Selenium library in Python for automating web scraping. The scraping process posed challenges due to frequent Chrome updates that hindered traditional methods. The most demanding aspect involved configuring the chromedriver to navigate through thumbnails and identify the image source to prevent downloading of the thumbnails.
