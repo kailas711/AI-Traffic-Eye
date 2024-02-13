@@ -10,7 +10,7 @@ I utilized the Selenium library in Python for automating web scraping. The scrap
 [Code for scrapping](https://github.com/kailas711/YoloV5_Nested_Object_Detection/blob/main/Data_Collection.py)
 
 
-![Data_collection](https://github.com/kailas711/YoloV5_Nested_Object_Detection/assets/89206677/21f41239-620c-4706-ac3b-db86154de4cb)
+![Data_collection](https://github.com/kailas711/AI-Traffic-Eye/blob/main/assets/Data%20Collection.gif?raw=true)
 
 
 
