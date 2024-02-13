@@ -6,19 +6,17 @@ import streamlit as st
 
 # Setting page layout
 st.set_page_config(
-    page_title="Traffic-EYE",
+    page_title="Home",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 # Main page heading
-content = """ # YoloV8_Nested_Object_Detection
-My first end-to-end computer vision project, starting from data collection to deployment in a webapp.
-The project involves 5 steps 
-- Data Collection 
-- Data cleaning and procesing 
-- Model Buidling and training 
-- Deployment 
+content = """ # Traffic-EYE
+My first end-to-end computer vision project, starting from data collection to deployment as a webapp.
+
+### Nested Object Detection Concept. 
+![image](https://github.com/kailas711/AI-Traffic-Eye/assets/89206677/8fb1536d-a5ab-4f84-9c2a-5b13352e99c9)
 
 ### 1.Data Collection 
 I utilized the Selenium library in Python for automating web scraping. The scraping process posed challenges due to frequent Chrome updates that hindered traditional methods. The most demanding aspect involved configuring the chromedriver to navigate through thumbnails and identify the image source to prevent downloading of the thumbnails.
@@ -43,7 +41,7 @@ The Ultralytics YoloV8 nano model custom trained on dataset via Roboflow API dai
 
 
 ### 4.Deployment 
-"![image](https://blog.streamlit.io/content/images/2022/08/image--4-.svg)"
+"![image]()"
 """
 
 st.markdown(content)
