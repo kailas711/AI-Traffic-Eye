@@ -10,5 +10,5 @@ Deployment : Deployed in Streamlit community cloud.
 
 **Link** -- https://yolov8nestedobjectdetection-akxeu4mb6zecb6mupmc57o.streamlit.app/
 
-### Nested Object Detection
+### Nested Object Detection Concept. 
 ![image](https://github.com/kailas711/AI-Traffic-Eye/assets/89206677/8fb1536d-a5ab-4f84-9c2a-5b13352e99c9)
