@@ -1,10 +1,5 @@
 # AI Traffic Eye
 
-The project involved 5 phases 
-- Data collection, cleaning and procesing : Uses web scarped data by selenium , manually annotated using Roboflow.
-- Model Buidling and training : Custom trained on YoloV8n model from Ultralytics hub
-- Deployment : Deployed in Streamlit community cloud.
-
 **The application is deployed in streamlit cloud, try it for yourself!!**
 
 **Link** -- https://yolov8nestedobjectdetection-akxeu4mb6zecb6mupmc57o.streamlit.app/
