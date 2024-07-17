@@ -1,6 +1,6 @@
 # AI Traffic Eye
 
-**The application is deployed in streamlit cloud, try it for yourself!!**
+**The application has been deployed in streamlit cloud, try it for yourself!!**
 
 **Link** -- https://ai-traffic-eye.streamlit.app/
 
